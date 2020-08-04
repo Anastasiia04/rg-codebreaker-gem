@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    codebreaker (0.1.27)
+    rg-codebreaker-gem. (0.0.1)
 
 GEM
   remote: https://rubygems.org/
@@ -71,11 +71,11 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 1.17)
-  codebreaker!
   fasterer
   i18n
   overcommit
   rake (~> 10.0)
+  rg-codebreaker-gem.!
   rspec (~> 3.0)
   rubocop
   rubocop-rspec
